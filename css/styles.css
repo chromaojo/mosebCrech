@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul img{
+    width: 35px;
+    margin-left: 20%;
+}
+.nav h3{
+    color: white;
+    margin-left: 10%;
+    font-weight: bolder;
+    text-shadow: 2px 3px rgb(173, 12, 12);
+}
+li .nav-link{
+    color: white;
+}
