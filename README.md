@@ -1,11 +1,11 @@
-# _{Application Name}
-#### _{Brief description of the Application}
+# _{MOSEB CRECHE}
+#### _{This is a website for a creche school}
 #### By _**{List of contributors}
 ## TEchmologies Used
-* List all
-* _the major technologies
-* _you used in your project
-* _here_
+* HTML
+* _CSS
+* _BOOTSTRAP
+* _JS_
 
 ## Description
 _ {This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
